@@ -5,6 +5,7 @@
 Javascript 없이 CSS만으로 바닥에 붙어 있는 Footer 애니메이션입니다.
 
 📌 DEMO
+https://eveneul.github.io/bottom-sticky-footer/
 
 💻 기술 스택: HTML, CSS
 
